@@ -12,10 +12,10 @@ int value = A0;
 
 
 
-#define FIREBASE_AUTH "JTlgOeOXWMmUlfqxLcDMahvIz0zCFKi2Gm40221Y" 
-#define FIREBASE_HOST "gassensor-24830-default-rtdb.firebaseio.com"
-#define WIFI_SSID "TurkTelekom_Z3RYN"
-#define WIFI_PASSWORD "512DDD167F7A5"
+#define FIREBASE_AUTH "Firebase-Auth Token" 
+#define FIREBASE_HOST "Firebase URL without https"
+#define WIFI_SSID "Your Wifi SSID"
+#define WIFI_PASSWORD "Your Wifi Password"
 
 String gasdetected = "gasdetected" ;
 String gasabsent= "gasabsent";
